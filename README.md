@@ -64,10 +64,15 @@ Finaliza la aplicación.
 <em> # 💻 Tecnología Utilizada </em>
 
 ✔️ Java: Lenguaje de programación principal utilizado para el desarrollo de la aplicación.
+
 ✔️ Spring Data JPA: Framework para gestionar la persistencia y operaciones de base de datos de manera eficiente y sencilla.
+
 ✔️ Gutendex API: API externa utilizada para obtener información de libros de manera dinámica.
+
 ✔️ Base de Datos: PostgreSQL para almacenar la información de libros y autores.
+
 ✔️ Jackson-databind: libreria de Java para la manipulación de datos JSON.
+
 
 
 Objetivo del Proyecto
