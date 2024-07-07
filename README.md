@@ -75,6 +75,6 @@ Finaliza la aplicación.
 
 
 
-🔹 Objetivo del Proyecto:
+<h2> 🔹 Objetivo del Proyecto: </h2>
 
 El objetivo de este proyecto es crear una aplicación eficiente para la gestión de información de libros y autores, aprovechando las capacidades de Spring Data JPA y la API de Gutendex. La aplicación está diseñada para ser fácil de usar y proporciona varias herramientas para la consulta y gestión de datos, lo que la convierte en una herramienta útil tanto para bibliotecas como para investigadores y aficionados a la literatura.
