@@ -71,8 +71,9 @@ public class Libro {
 
     @Override
     public String toString() {
+        String autorInfo = (autor != null) ? ", autor= (" + autor.getNombre() + ")" : ", autor= (Sin autor)";
         return  "titulo='" + titulo + '\'' +
-                ", autor= (" + autor.getNombre() + ")" +
+                autorInfo +
                 ", lenguajes=" + lenguaje +
                 ", descargas=" + descargas;
     }
