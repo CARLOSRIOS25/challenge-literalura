@@ -1,9 +1,9 @@
-<em font-size="20" align="center"> 🏆 Desafío LiterAlura </em>
+<h1> 🏆 Desafío LiterAlura </h1>
 
 
 Este proyecto es una aplicación Java que utiliza Spring Data JPA para interactuar con una base de datos y la API de Gutendex para obtener información sobre libros. La aplicación ofrece un menú con varias opciones para gestionar y consultar datos de libros y autores. A continuación se detalla cada una de las funcionalidades principales:
 
-<em font-size="20"> ✏️ Funcionalidades </em>
+<h2> ✏️ Funcionalidades </h2>
 
 ![image](https://github.com/CARLOSRIOS25/challenge-literalura/assets/157416493/37e6d6bc-fcb5-4620-9feb-667ee532fd06)
 
@@ -61,7 +61,7 @@ Ofrece una visión general del contenido registrado en el sistema.
 Finaliza la aplicación.
 
 
-<em font-size="20"> 💻 Tecnología Utilizada </em>
+<h2> 💻 Tecnología Utilizada </h2>
 
 ✔️ Java: Lenguaje de programación principal utilizado para el desarrollo de la aplicación.
 
