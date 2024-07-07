@@ -1,7 +1,6 @@
 package com.alurachallenge.libreria_alura.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
-
 import java.util.List;
 
 public record Datos(
